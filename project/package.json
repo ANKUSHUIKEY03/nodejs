@@ -1,0 +1,17 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "First project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "ankush uikey",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "nodemon": "^2.0.18"
+  },
+  "devDependencies": {}
+}
